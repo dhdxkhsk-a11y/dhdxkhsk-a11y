@@ -4,9 +4,9 @@
 
 ---
 
-# Min (@dhdxkhsk)
+# Min (@dhdxkhsk-a11y)
 
-> Systems Software & Assistive Interface Engineer.  
+> Senior Systems Software & Assistive Interface Engineer.  
 > Focusing on low-latency OS accessibility abstractions, tactile refreshable braille drivers, and deterministic text rendering engines.
 
 ```text
@@ -44,7 +44,7 @@ When I am not tracing kernel input events or writing SIMD-accelerated text shape
 | Subsystem | Specialization | Key APIs & Protocols |
 | :--- | :--- | :--- |
 | **Linux Accessibility** | Direct AT-SPI2 bus IPC, `evdev` event tap | D-Bus, `uinput`, Wayland accessibility protocol extensions |
-| **Windows Platform** | Native UI Automation (UIA) provider architecture | IAccessible2, WinEvents, Raw Input API |
+| **Windows Platform** | Native UI Accessibility (UIA/IA2) provider architecture | IAccessible2, WinEvents, Raw Input API |
 | **macOS Accessibility** | Native Accessibility API wrappers | `AXUIElement`, CoreGraphics event taps |
 | **Embedded & Peripherals** | Braille display controller communication | USB HID-Telephony / Custom Braille Protocol, UART / BLE |
 
@@ -106,7 +106,7 @@ Shell            = Zsh + Tmux
 ## 📬 Connect & Verification
 
 - **Email**: `dhdxkhsk@gmail.com`
-- **GitHub**: [@dhdxkhsk](https://github.com/dhdxkhsk)
+- **GitHub**: [@dhdxkhsk-a11y](https://github.com/dhdxkhsk-a11y)
 - **GitLab**: [@dhdxkhsk](https://gitlab.com/dhdxkhsk)
 - **Hugging Face**: [@r3eaw3](https://huggingface.co/r3eaw3)
 - **GPG Fingerprint**: `9F8A 2B71 C4E0 813D 6D25  E4A9 72B0 11C8 40A5 E68F`

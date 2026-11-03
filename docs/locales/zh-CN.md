@@ -4,9 +4,9 @@
 
 ---
 
-# Min (@dhdxkhsk)
+# Min (@dhdxkhsk-a11y)
 
-> 系统软件与辅助技术（Assistive Interface）工程师。  
+> 资深系统软件与辅助技术（Assistive Interface）工程师。  
 > 专注于低延迟操作系统无障碍抽象层、触觉盲文点字终端驱动以及确定性文本渲染引擎。
 
 ```text
@@ -44,7 +44,7 @@
 | 子系统 | 专业领域 | 关键 API 与协议 |
 | :--- | :--- | :--- |
 | **Linux 无障碍** | 直连 AT-SPI2 bus IPC, `evdev` 事件捕获 | D-Bus, `uinput`, Wayland accessibility 协议扩展 |
-| **Windows 平台** | 原生 UI Automation (UIA) Provider 架构 | IAccessible2, WinEvents, Raw Input API |
+| **Windows 平台** | 原生 Windows 无障碍 (UIA/IA2) Provider 架构 | IAccessible2, WinEvents, Raw Input API |
 | **macOS 无障碍** | 原生 Accessibility API 封装层 | `AXUIElement`, CoreGraphics event taps |
 | **嵌入式与外设** | 盲文显示控制器直通通信 | USB HID-Telephony / 定制盲文协议, UART / BLE |
 
@@ -106,7 +106,7 @@ Shell 环境 = Zsh + Tmux
 ## 📬 联系方式与公钥
 
 - **电子邮箱**: `dhdxkhsk@gmail.com`
-- **GitHub**: [@dhdxkhsk](https://github.com/dhdxkhsk)
+- **GitHub**: [@dhdxkhsk-a11y](https://github.com/dhdxkhsk-a11y)
 - **GitLab**: [@dhdxkhsk](https://gitlab.com/dhdxkhsk)
 - **Hugging Face**: [@r3eaw3](https://huggingface.co/r3eaw3)
 - **GPG 指纹**: `9F8A 2B71 C4E0 813D 6D25  E4A9 72B0 11C8 40A5 E68F`

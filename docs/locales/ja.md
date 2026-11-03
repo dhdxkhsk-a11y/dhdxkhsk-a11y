@@ -4,9 +4,9 @@
 
 ---
 
-# Min (@dhdxkhsk)
+# Min (@dhdxkhsk-a11y)
 
-> システムソフトウェア ＆ アシスティブ・インターフェース エンジニア。  
+> シニア・システムソフトウェア ＆ アシスティブ・インターフェース エンジニア。  
 > 低遅延OSアクセシビリティ抽象化レイヤー、触覚点字ディスプレイのドライバ、および決定論的テキストレンダリングエンジンの開発。
 
 ```text
@@ -44,7 +44,7 @@ OSの入力サブシステムと支援技術（Assistive Technology）の入出�
 | サブシステム | 専門領域 | 主なAPI・プロトコル |
 | :--- | :--- | :--- |
 | **Linux アクセシビリティ** | 直接 AT-SPI2 bus IPC, `evdev` イベントタップ | D-Bus, `uinput`, Wayland accessibility protocol extensions |
-| **Windows プラットフォーム** | ネイティブ UI Automation (UIA) プロバイダ設計 | IAccessible2, WinEvents, Raw Input API |
+| **Windows プラットフォーム** | ネイティブ Windows アクセシビリティ (UIA/IA2) プロバイダ設計 | IAccessible2, WinEvents, Raw Input API |
 | **macOS アクセシビリティ** | ネイティブ Accessibility API ラッパー | `AXUIElement`, CoreGraphics event taps |
 | **組み込み・周辺機器** | 点字ディスプレイコントローラ直結通信 | USB HID-Telephony / Custom 点字プロトコル, UART / BLE |
 
@@ -106,7 +106,7 @@ OS             = Void Linux (musl libc環境) / FreeBSD 14.1-RELEASE
 ## 📬 連絡先・公開鍵
 
 - **Email**: `dhdxkhsk@gmail.com`
-- **GitHub**: [@dhdxkhsk](https://github.com/dhdxkhsk)
+- **GitHub**: [@dhdxkhsk-a11y](https://github.com/dhdxkhsk-a11y)
 - **GitLab**: [@dhdxkhsk](https://gitlab.com/dhdxkhsk)
 - **Hugging Face**: [@r3eaw3](https://huggingface.co/r3eaw3)
 - **GPG Fingerprint**: `9F8A 2B71 C4E0 813D 6D25  E4A9 72B0 11C8 40A5 E68F`

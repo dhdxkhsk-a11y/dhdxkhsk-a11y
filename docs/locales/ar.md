@@ -4,9 +4,9 @@
 
 ---
 
-# مين (@dhdxkhsk)
+# مين (@dhdxkhsk-a11y)
 
-> مهندس برمجيات النظم والواجهات المساعدة (Assistive Interface).  
+> كبير مهندسي برمجيات النظم والواجهات المساعدة (Assistive Interface).  
 > أركز على تجريدات إمكانية الوصول منخفضة زمن الاستجابة على مستوى نظام التشغيل، ومشغلات أجهزة برايل اللمسية، ومحركات تصيير النصوص المحددة.
 
 ```text
@@ -44,7 +44,7 @@
 | النظام الفرعي | التخصص الدقيق | أهم واجهات البرمجة والبروتوكولات |
 | :--- | :--- | :--- |
 | **إمكانية الوصول في Linux** | اتصال IPC مباشر بناقل AT-SPI2، واعتراض أحداث `evdev` | D-Bus, `uinput`, ملحقات بروتوكول Wayland accessibility |
-| **منصة Windows** | معمارية موفري واجهة أتمتة واجهة المستخدم (UIA) الأصلية | IAccessible2, WinEvents, Raw Input API |
+| **منصة Windows** | معمارية موفري إمكانية الوصول الأصلية لنظام Windows (UIA/IA2) | IAccessible2, WinEvents, Raw Input API |
 | **إمكانية الوصول في macOS** | أغلفة أصلية حول Accessibility API | `AXUIElement`, اعتراضات أحداث CoreGraphics |
 | **الأنظمة المدمجة والطرفيات** | بروتوكولات الاتصال المباشر بوحدات تحكم برايل | USB HID-Telephony / بروتوكولات برايل المخصصة, UART / BLE |
 
@@ -106,7 +106,7 @@
 ## 📬 التواصل والتحقق
 
 - **البريد الإلكتروني**: `dhdxkhsk@gmail.com`
-- **GitHub**: [@dhdxkhsk](https://github.com/dhdxkhsk)
+- **GitHub**: [@dhdxkhsk-a11y](https://github.com/dhdxkhsk-a11y)
 - **GitLab**: [@dhdxkhsk](https://gitlab.com/dhdxkhsk)
 - **Hugging Face**: [@r3eaw3](https://huggingface.co/r3eaw3)
 - **بصمة مفتاح GPG**: `9F8A 2B71 C4E0 813D 6D25  E4A9 72B0 11C8 40A5 E68F`

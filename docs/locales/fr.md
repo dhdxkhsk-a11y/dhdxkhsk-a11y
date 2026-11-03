@@ -4,9 +4,9 @@
 
 ---
 
-# Min (@dhdxkhsk)
+# Min (@dhdxkhsk-a11y)
 
-> Ingénieur Logiciel Systèmes & Interfaces d'Accessibilité.  
+> Ingénieur Logiciel Senior Systèmes & Interfaces d'Accessibilité.  
 > Spécialisé dans les abstractions d'accessibilité à faible latence pour OS, les pilotes de plages braille tactiles et les moteurs de rendu textuel déterministes.
 
 ```text
@@ -44,7 +44,7 @@ Lorsque je ne suis pas en train de tracer des événements d'entrée du noyau ou
 | Sous-système | Spécialisation | APIs & Protocoles Clés |
 | :--- | :--- | :--- |
 | **Accessibilité Linux** | IPC direct sur bus AT-SPI2, capture `evdev` | D-Bus, `uinput`, extensions Wayland accessibility |
-| **Plateforme Windows** | Architecture de fournisseurs UI Automation (UIA) | IAccessible2, WinEvents, Raw Input API |
+| **Plateforme Windows** | Architecture de fournisseurs natifs d'accessibilité (UIA/IA2) | IAccessible2, WinEvents, Raw Input API |
 | **Accessibilité macOS** | Wrappers natifs Accessibility API | `AXUIElement`, écoutes d'événements CoreGraphics |
 | **Systèmes Embarqués & Périphériques** | Communication directe contrôleur braille | USB HID-Telephony / Protocoles braille propriétaires, UART / BLE |
 
@@ -106,7 +106,7 @@ Shell                  = Zsh + Tmux
 ## 📬 Contact & Clés Publiques
 
 - **Courriel**: `dhdxkhsk@gmail.com`
-- **GitHub**: [@dhdxkhsk](https://github.com/dhdxkhsk)
+- **GitHub**: [@dhdxkhsk-a11y](https://github.com/dhdxkhsk-a11y)
 - **GitLab**: [@dhdxkhsk](https://gitlab.com/dhdxkhsk)
 - **Hugging Face**: [@r3eaw3](https://huggingface.co/r3eaw3)
 - **Empreinte GPG**: `9F8A 2B71 C4E0 813D 6D25  E4A9 72B0 11C8 40A5 E68F`

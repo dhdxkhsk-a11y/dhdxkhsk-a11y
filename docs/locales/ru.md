@@ -4,9 +4,9 @@
 
 ---
 
-# Мин (@dhdxkhsk)
+# Мин (@dhdxkhsk-a11y)
 
-> Инженер системного программного обеспечения и ассистивных интерфейсов.  
+> Ведущий инженер системного программного обеспечения и ассистивных интерфейсов.  
 > Специализируюсь на низколатентных абстракциях доступности ОС, драйверах тактильных дисплеев Брайля и детерминированных движках рендеринга текста.
 
 ```text
@@ -44,7 +44,7 @@
 | Подсистема | Специализация | Ключевые API и протоколы |
 | :--- | :--- | :--- |
 | **Доступность в Linux** | Прямой IPC к шине AT-SPI2, перехват `evdev` | D-Bus, `uinput`, расширения протокола Wayland accessibility |
-| **Платформа Windows** | Архитектура нативных провайдеров UI Automation (UIA) | IAccessible2, WinEvents, Raw Input API |
+| **Платформа Windows** | Архитектура нативных провайдеров доступности (UIA/IA2) | IAccessible2, WinEvents, Raw Input API |
 | **Доступность в macOS** | Нативные обёртки над Accessibility API | `AXUIElement`, перехватчики CoreGraphics |
 | **Встраиваемые системы и периферия** | Прямой протокольный обмен с контроллерами Брайля | USB HID-Telephony / Брайлевские протоколы, UART / BLE |
 
@@ -106,7 +106,7 @@
 ## 📬 Контакты и верификация
 
 - **Электронная почта**: `dhdxkhsk@gmail.com`
-- **GitHub**: [@dhdxkhsk](https://github.com/dhdxkhsk)
+- **GitHub**: [@dhdxkhsk-a11y](https://github.com/dhdxkhsk-a11y)
 - **GitLab**: [@dhdxkhsk](https://gitlab.com/dhdxkhsk)
 - **Hugging Face**: [@r3eaw3](https://huggingface.co/r3eaw3)
 - **Отпечаток ключа GPG**: `9F8A 2B71 C4E0 813D 6D25  E4A9 72B0 11C8 40A5 E68F`

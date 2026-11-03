@@ -4,9 +4,9 @@
 
 ---
 
-# 민 (@dhdxkhsk)
+# Min (@dhdxkhsk-a11y)
 
-> 시스템 소프트웨어 및 보조 공학(Assistive Interface) 엔지니어.  
+> 시니어 시스템 소프트웨어 및 보조 공학(Assistive Interface) 엔지니어.  
 > 초저지연 OS 접근성 추상화 레이어, 촉각 점자 단말기 드라이버, 결정론적 텍스트 렌더링 엔진을 개발합니다.
 
 ```text
@@ -44,7 +44,7 @@
 | 서브시스템 | 전문 도메인 | 주요 API 및 프로토콜 |
 | :--- | :--- | :--- |
 | **Linux 접근성** | Direct AT-SPI2 bus IPC, `evdev` 이벤트 탭 | D-Bus, `uinput`, Wayland accessibility 프로토콜 확장 |
-| **Windows 플랫폼** | Native UI Automation (UIA) 프로바이더 아키텍처 | IAccessible2, WinEvents, Raw Input API |
+| **Windows 플랫폼** | Native Windows 접근성 (UIA/IA2) 프로바이더 아키텍처 | IAccessible2, WinEvents, Raw Input API |
 | **macOS 접근성** | Native Accessibility API 래퍼 | `AXUIElement`, CoreGraphics event taps |
 | **임베디드 및 주변기기** | 점자 디스플레이 컨트롤러 직통 통신 | USB HID-Telephony / Custom 점자 프로토콜, UART / BLE |
 
@@ -106,7 +106,7 @@
 ## 📬 연락처 및 검증
 
 - **이메일**: `dhdxkhsk@gmail.com`
-- **GitHub**: [@dhdxkhsk](https://github.com/dhdxkhsk)
+- **GitHub**: [@dhdxkhsk-a11y](https://github.com/dhdxkhsk-a11y)
 - **GitLab**: [@dhdxkhsk](https://gitlab.com/dhdxkhsk)
 - **Hugging Face**: [@r3eaw3](https://huggingface.co/r3eaw3)
 - **GPG 핑거프린트**: `9F8A 2B71 C4E0 813D 6D25  E4A9 72B0 11C8 40A5 E68F`

@@ -4,9 +4,9 @@
 
 ---
 
-# Min (@dhdxkhsk)
+# Min (@dhdxkhsk-a11y)
 
-> Engenheiro de Software de Sistemas e Interfaces Assistivas.  
+> Engenheiro Sênior de Software de Sistemas e Interfaces Assistivas.  
 > Focado em abstrações de acessibilidade de baixa latência no nível do SO, drivers para linhas braille táteis e motores determinísticos de renderização de texto.
 
 ```text
@@ -44,7 +44,7 @@ Quando não estou rastreando eventos de entrada no kernel ou escrevendo analisad
 | Subsistema | Especialização | APIs e Protocolos Principais |
 | :--- | :--- | :--- |
 | **Acessibilidade no Linux** | IPC direto no barramento AT-SPI2, captura `evdev` | D-Bus, `uinput`, extensões de acessibilidade Wayland |
-| **Plataforma Windows** | Arquitetura de provedores nativos UI Automation (UIA) | IAccessible2, WinEvents, Raw Input API |
+| **Plataforma Windows** | Arquitetura de provedores nativos de acessibilidade (UIA/IA2) | IAccessible2, WinEvents, Raw Input API |
 | **Acessibilidade no macOS** | Wrappers nativos sobre Accessibility API | `AXUIElement`, interceptações CoreGraphics |
 | **Embarcados e Periféricos** | Comunicação direta com controladores braille | USB HID-Telephony / Protocolos braille dedicados, UART / BLE |
 
@@ -106,7 +106,7 @@ Shell               = Zsh + Tmux
 ## 📬 Contato e Verificação
 
 - **E-mail**: `dhdxkhsk@gmail.com`
-- **GitHub**: [@dhdxkhsk](https://github.com/dhdxkhsk)
+- **GitHub**: [@dhdxkhsk-a11y](https://github.com/dhdxkhsk-a11y)
 - **GitLab**: [@dhdxkhsk](https://gitlab.com/dhdxkhsk)
 - **Hugging Face**: [@r3eaw3](https://huggingface.co/r3eaw3)
 - **Impressão Digital GPG**: `9F8A 2B71 C4E0 813D 6D25  E4A9 72B0 11C8 40A5 E68F`

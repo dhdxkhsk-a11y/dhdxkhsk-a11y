@@ -4,9 +4,9 @@
 
 ---
 
-# Min (@dhdxkhsk)
+# Min (@dhdxkhsk-a11y)
 
-> Systemsoftware- und Assistive-Interface-Ingenieur.  
+> Senior-Systemsoftware- und Assistive-Interface-Ingenieur.  
 > Spezialisiert auf latenzarme Betriebssystem-Barrierefreiheitsabstraktionen, Treiber für taktile Braillezeilen und deterministische Text-Rendering-Pipelines.
 
 ```text
@@ -44,7 +44,7 @@ Wenn ich nicht gerade Kernel-Eingabeereignisse trace oder SIMD-beschleunigte Tex
 | Subsystem | Spezialisierung | Wichtige APIs & Protokolle |
 | :--- | :--- | :--- |
 | **Linux-Barrierefreiheit** | Direkte AT-SPI2-Bus-IPC, `evdev`-Event-Abgriff | D-Bus, `uinput`, Wayland accessibility protocol extensions |
-| **Windows-Plattform** | Native UI Automation (UIA) Provider-Architektur | IAccessible2, WinEvents, Raw Input API |
+| **Windows-Plattform** | Native Windows-Barrierefreiheits-(UIA/IA2)-Provider-Architektur | IAccessible2, WinEvents, Raw Input API |
 | **macOS-Barrierefreiheit** | Native Accessibility-API-Wrapper | `AXUIElement`, CoreGraphics-Event-Taps |
 | **Embedded & Peripherie** | Direkte Controller-Kommunikation für Braillezeilen | USB HID-Telephony / Eigene Braille-Protokolle, UART / BLE |
 
@@ -106,7 +106,7 @@ Shell          = Zsh + Tmux
 ## 📬 Kontakt & Verifikation
 
 - **E-Mail**: `dhdxkhsk@gmail.com`
-- **GitHub**: [@dhdxkhsk](https://github.com/dhdxkhsk)
+- **GitHub**: [@dhdxkhsk-a11y](https://github.com/dhdxkhsk-a11y)
 - **GitLab**: [@dhdxkhsk](https://gitlab.com/dhdxkhsk)
 - **Hugging Face**: [@r3eaw3](https://huggingface.co/r3eaw3)
 - **GPG-Fingerabdruck**: `9F8A 2B71 C4E0 813D 6D25  E4A9 72B0 11C8 40A5 E68F`
